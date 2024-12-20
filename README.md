@@ -1,4 +1,5 @@
-# CoinMath
+<h1 align="center">🔥 CoinMath 🔥</h1>
+
 CoinMath: Harnessing the Power of Coding Instruction for Math LLMs
 
 Code, and models will be available soon.
