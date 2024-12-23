@@ -1,7 +1,7 @@
 """
 IF_data_download.py
 
-Downloading and processing instructio tuning data of CoinMath.
+Downloading and processing instruction tuning data of CoinMath.
 """
 
 import json
