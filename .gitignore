@@ -1,0 +1,8 @@
+# Logs and databases #
+######################
+*.log
+*.jsonl
+
+# Folder #
+######################
+IF_data/
