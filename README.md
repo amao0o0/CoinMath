@@ -18,7 +18,7 @@
 
 Introduction: xxx
 
-![Overview of CoinMath framework.](../CoinMath-copy/assets/CoinMath.png)
+![Overview of CoinMath framework.](./assets/CoinMath.png)
 
 ---
 We adapt the implementation of [open-instruct](https://github.com/allenai/open-instruct) for instruction tuning and [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH/tree/main) for evaluation.
