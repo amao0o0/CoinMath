@@ -6,3 +6,11 @@
 # Folder #
 ######################
 IF_data/
+wandb/
+eval/
+
+# Files #
+######################
+scripts/finetune_lora_with_accelerate_private.sh
+scripts/finetune_lora_with_accelerate_private2.sh
+scripts/IF_data_download_private.sh
