@@ -15,11 +15,15 @@
 [Llama-3.1-CoinMath-8B](https://huggingface.co/amao0o0/Llama-3.1-CoinMath-8B) | 
 [CodeLlama-CoinMath-7B](https://huggingface.co/amao0o0/CodeLlama-CoinMath-7B)
 
-To be completed ...
+During the study investigating the best practice to leverage coding instruction data to enhance mathematical reasoning, we found that code-based rationales with comments, descriptive naming, and hardcoded solutions are beneficial, while improvements from general-domain coding instructions and textual rationales are relatively minor. Based on these insights, we propose CoinMath, a learning strategy designed to enhance mathematical reasoning by diversifying the coding styles of code-based rationales. CoinMath generates a variety of code-based rationales incorporating comments, descriptive naming conventions, and hardcoded solutions.
 
-Introduction: xxx
-
-![Overview of CoinMath framework.](./assets/CoinMath.png)
+<p align="center">
+    <img src="./assets/CoinMath.png" alt="Overview of CoinMath framework." 
+             title="Overview of CoinMath framework" width="900" />
+    </a>
+    <br />
+    <span style="font-weight: bold;">Overview of CoinMath framework.</span>
+</p>
 
 ---
 We adapt the implementation of [open-instruct](https://github.com/allenai/open-instruct) for instruction tuning and [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH/tree/main) for evaluation.
