@@ -2,11 +2,22 @@
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2412.11699v1" 
-     target="_blank" 
-     style="text-decoration: none; color: #0078d7; font-weight: bold; font-size: 18px;">
-     ⚡ A repository for "CoinMath: Harnessing the Power of Coding Instruction for Math LLMs" ⚡
-  </a>
+       target="_blank" 
+       style="text-decoration: none; color: #0078d7; font-weight: bold; font-size: 18px; 
+              border: 2px solid #0078d7; padding: 10px 20px; border-radius: 8px; 
+              transition: background-color 0.3s, color 0.3s; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        ⚡ A repository for "CoinMath: Harnessing the Power of Coding Instruction for Math LLMs" ⚡
+    </a>
 </p>
+
+<style>
+    p a:hover {
+        background-color: #0078d7;
+        color: white;
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+    }
+</style>
+
 
 📄[arXiv](https://arxiv.org/pdf/2412.11699v1)
 
@@ -15,6 +26,8 @@
 🧮 CoinMath Models:
 [Llama-3.1-CoinMath-8B](https://huggingface.co/amao0o0/Llama-3.1-CoinMath-8B) | 
 [CodeLlama-CoinMath-7B](https://huggingface.co/amao0o0/CodeLlama-CoinMath-7B)
+
+To be completed ...
 
 Introduction: xxx
 
