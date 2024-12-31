@@ -19,7 +19,7 @@ During the study investigating the best practice to leverage coding instruction 
 
 <p align="center">
     <img src="./assets/CoinMath.png" alt="Overview of CoinMath framework." 
-             title="Overview of CoinMath framework" width="750" />
+             title="Overview of CoinMath framework" width="600" />
     </a>
     <br />
     <span style="font-weight: bold;">Overview of CoinMath framework.</span>
