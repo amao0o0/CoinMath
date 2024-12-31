@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<h1 align="center">🔥 CoinMath 🔥</h1>
-
-CoinMath: Harnessing the Power of Coding Instruction for Math LLMs
-=======
 <h1 align="center"> CoinMath </h1>
->>>>>>> b7a67ef (Updated IF_data_download.py and README.md)
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2412.11699v1" 
@@ -77,4 +71,3 @@ If you find our work useful, please cite our paper:
 }
 ```
 Additionally, please cite [open-instruct](https://github.com/allenai/open-instruct) if you use the code for instruction tuning, and [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH/tree/main) if you use the code for evaluation.
->>>>>>> b7a67ef (Updated IF_data_download.py and README.md)
