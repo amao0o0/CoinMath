@@ -8,9 +8,8 @@
   </a>
 </p>
 
-<<<<<<< HEAD
 📄 [arXiv](https://arxiv.org/pdf/2412.11699v1) | 📂[CoinMath Dataset](https://huggingface.co/datasets/amao0o0/CoinMath)
-=======
+
 📄[arXiv](https://arxiv.org/pdf/2412.11699v1)
 
 🗂️[CoinMath Dataset](https://huggingface.co/datasets/amao0o0/CoinMath)
