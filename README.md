@@ -8,8 +8,6 @@
   </a>
 </p>
 
-📄 [arXiv](https://arxiv.org/pdf/2412.11699v1) | 📂[CoinMath Dataset](https://huggingface.co/datasets/amao0o0/CoinMath)
-
 📄[arXiv](https://arxiv.org/pdf/2412.11699v1)
 
 🗂️[CoinMath Dataset](https://huggingface.co/datasets/amao0o0/CoinMath)
@@ -19,6 +17,8 @@
 [CodeLlama-CoinMath-7B](https://huggingface.co/amao0o0/CodeLlama-CoinMath-7B)
 
 Introduction: xxx
+
+![Overview of CoinMath framework.](../CoinMath-copy/assets/CoinMath.png)
 
 ---
 We adapt the implementation of [open-instruct](https://github.com/allenai/open-instruct) for instruction tuning and [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH/tree/main) for evaluation.
