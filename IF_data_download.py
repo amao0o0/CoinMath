@@ -17,10 +17,10 @@ def save_jsonl(data, output_path):
 
 ds = load_dataset("amao0o0/CoinMath")
 
-data_ensemble1 = concatenate_datasets([ds['concise_comment'], ds['descriptive'], ds['hardcoded']])
+data_ensemble1 = concatenate_datasets([ds['detailed_comment'], ds['descriptive'], ds['hardcoded']])
 data_ensemble2 = concatenate_datasets([ds['no_comment'], ds['obscure'], ds['general']])
 data_ensemble3 = concatenate_datasets([ds['no_comment'], ds['concise_comment'], ds['detailed_comment'], ds['descriptive'], ds['obscure'], ds['general'], ds['hardcoded']])
 
-save_jsonl(data_ensemble1, "IF_data/conciseComment-descriptive-hardcoded.jsonl")
+save_jsonl(data_ensemble1, "IF_data/comment-descriptive-hardcoded.jsonl")
 save_jsonl(data_ensemble2, "IF_data/noComment-obscure-general.jsonl")
 save_jsonl(data_ensemble3, "IF_data/allTypes.jsonl")
