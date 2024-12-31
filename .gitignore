@@ -5,9 +5,11 @@
 
 # Folder #
 ######################
+__pycache__/
 IF_data/
 wandb/
 eval/
+output/
 
 # Files #
 ######################
