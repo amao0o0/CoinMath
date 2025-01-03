@@ -8,7 +8,7 @@
 __pycache__/
 IF_data/
 wandb/
-eval/
+# eval/
 output/
 
 # Files #
@@ -16,3 +16,4 @@ output/
 scripts/finetune_lora_with_accelerate_private.sh
 scripts/finetune_lora_with_accelerate_private2.sh
 scripts/IF_data_download_private.sh
+eval/run_eval_priviate.sh
