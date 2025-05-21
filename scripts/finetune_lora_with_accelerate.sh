@@ -17,7 +17,7 @@ model_names=(
 
 # List of train files (modify this list as needed)
 train_files=(
-    'IF_data/Comment-descriptive-hardcoded.jsonl'
+    'IF_data/comment-descriptive-hardcoded.jsonl'
     # 'IF_data/noComment-obscure-general.jsonl'
     # 'IF_data/allTypes.jsonl'
 )
