@@ -6,7 +6,7 @@ packaging
 sentencepiece
 datasets
 deepspeed==0.15.0
-accelerate==0.31.0
+accelerate==0.32.0
 peft>=0.11.1
 bitsandbytes>=0.41.1
 evaluate>=0.4.0
