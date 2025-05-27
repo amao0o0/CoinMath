@@ -58,7 +58,8 @@ bash scripts/finetune_lora_with_accelerate.sh
 
 ## Evaluation
 ```
-bash eval/run_eval.sh
+cd eval
+bash run_eval.sh
 ```
 The models' predictions and prediction accuracies are saved in ```eval/outputs-CoinMath``` and ```eval/results-CoinMath``` by default. 
 
