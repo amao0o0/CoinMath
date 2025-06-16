@@ -9,7 +9,7 @@
 
 📄 [arXiv](https://arxiv.org/pdf/2412.11699v1)
 
-🗂️ [CoinMath Datasets](https://huggingface.co/datasets/amao0o0/CoinMath)
+🤗 [CoinMath Datasets](https://huggingface.co/datasets/amao0o0/CoinMath)
 
 🧮 CoinMath Models:
 [Llama-3.1-CoinMath-8B](https://huggingface.co/amao0o0/Llama-3.1-CoinMath-8B) | 
