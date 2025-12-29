@@ -7,7 +7,7 @@
     </a> ⚡
 </p>
 
-📄 [arXiv](https://arxiv.org/pdf/2412.11699v1)
+📄 [Paper](https://aclanthology.org/2025.findings-acl.44/)
 
 🤗 [CoinMath Datasets](https://huggingface.co/datasets/amao0o0/CoinMath)
 
@@ -68,11 +68,12 @@ To reproduce the results presented in the paper, we recommend installing the sam
 ## Citation
 If you find our work useful, please cite our paper:
 ```
-@article{wei2024coinmath,
-  title={CoinMath: Harnessing the Power of Coding Instruction for Math LLMs},
-  author={Wei, Chengwei and Wang, Bin and Kim, Jung-jae and Liu, Guimei and Chen, Nancy F},
-  journal={arXiv preprint arXiv:2412.11699},
-  year={2024}
+@inproceedings{wei2025coinmath,
+  title={CoinMath: Harnessing the Power of Coding Instruction for Math LLM},
+  author={Wei, Chengwei and Wang, Bin and Kim, Jung-jae and Liu, Guimei and Chen, Nancy},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={786--797},
+  year={2025}
 }
 ```
 Additionally, please cite [open-instruct](https://github.com/allenai/open-instruct) if you use the code for instruction tuning, and [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH/tree/main) if you use the code for evaluation.
